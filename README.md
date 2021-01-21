@@ -1,4 +1,4 @@
-# N8Flatmates
+# nu8Flatmates
 
 Esto es una prueba de README con emacs. Aquí en principio voy a hacer notas simplemente, porque no va a ser visto directamente por los susodichos "flatmates", aunque probablemente Juan lo esté leyendo :) Hola!
 
@@ -21,4 +21,4 @@ Con esto pretendo que pique la curiosidad de escanear los QRs para ver qué hay 
     + La idea es poner una pizarra con dos columnas: la primera con los nombres de los/as 5 integrantes/as del piso y la segunda
         * **Limpiadores/as:** Con los nombres de los/as integrantes/as del piso.
         * **Lugares/as:** Los lugares del primer punto.
-- Definiciones de las bolsas de colores: Cada bolsa de basura tiene un color. Hice unos papelitos pero mi letra no es la más indicada para hacer ningún papel informativo, así que tiramos de tecnología que es un npoquito más legible.
+- Definiciones de las bolsas de colores: Cada bolsa de basura tiene un color. Hice unos papelitos pero mi letra no es la más indicada para hacer ningún papel informativo, así que tiramos de tecnología que es un poquito más legible.
